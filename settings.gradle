@@ -1,0 +1,2 @@
+rootProject.name = 'kotlin-learning'
+include 'kotlin-helloworld-rest'
