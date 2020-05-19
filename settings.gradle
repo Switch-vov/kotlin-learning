@@ -1,2 +1,4 @@
 rootProject.name = 'kotlin-learning'
 include 'kotlin-helloworld-rest'
+include 'kotlin-syntax'
+
